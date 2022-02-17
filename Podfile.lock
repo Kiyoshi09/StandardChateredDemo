@@ -1,0 +1,22 @@
+PODS:
+  - Eureka (5.3.3)
+  - tealium-swift (2.3.2):
+    - tealium-swift/TealiumFull (= 2.3.2)
+  - tealium-swift/TealiumFull (2.3.2)
+
+DEPENDENCIES:
+  - Eureka (~> 5.3)
+  - tealium-swift
+
+SPEC REPOS:
+  trunk:
+    - Eureka
+    - tealium-swift
+
+SPEC CHECKSUMS:
+  Eureka: e6d720290c56bb23333ad1a0e020b2a98a0e9a43
+  tealium-swift: 79bb4d116c4a8758844b92642afd78563fea1dd8
+
+PODFILE CHECKSUM: 85de3c637a3256b37960c91462f2674afd6a12c3
+
+COCOAPODS: 1.11.2
