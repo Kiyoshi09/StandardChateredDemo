@@ -1,1 +1,1 @@
-# StandardChateredDemo
+# Banking App for Demo
